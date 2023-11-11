@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proyecto de Android Nativo</string>
+    <string name="go_to_comments">Ver comentarios</string>
+    <string name="new_number">Agregar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_contact">¿Desea eliminar el contacto?</string>
+    <string name="unknown">Desconocido</string>
+    <string name="grant_permissions">Otorgar permiso</string>
+</resources>
