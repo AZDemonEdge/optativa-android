@@ -10,7 +10,7 @@ Además la app debe mostrar un listado de los contactos almacenados en el teléf
 
 # Miembros del Equipo
 
-Claudia Vazquez Ivonnet
-René Salvó Reyna
-Miguel Alejandro Baez Perez
-Ernesto Correa Izquierdo
+Claudia Vazquez Ivonnet <br>
+René Salvó Reyna <br>
+Miguel Alejandro Baez Perez <br>
+Ernesto Correa Izquierdo <br>
