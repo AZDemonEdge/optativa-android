@@ -7,3 +7,10 @@ Al seleccionar un post mostrar los comentarios asociados: Ej: [https://jsonplace
 Documentación: [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/)
 
 Además la app debe mostrar un listado de los contactos almacenados en el teléfono. Al hacer tap sobre un contacto se debe permitir editar o eliminar el mismo
+
+# Miembros del Equipo
+
+Claudia Vazquez Ivonnet
+René Salvó Reyna
+Miguel Alejandro Baez Perez
+Ernesto Correa Izquierdo
